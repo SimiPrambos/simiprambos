@@ -5,7 +5,7 @@ You can call me Simi (Prambos). I am a Fullstack Developer & Tech enthusiast. I 
 [![Linkedin Badge](https://img.shields.io/badge/-simiprambos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-silmi-kaffah/)](https://www.linkedin.com/in/muhammad-silmi-kaffah/)
 [![Gmail Badge](https://img.shields.io/badge/-simi.prambos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simi.prambos@gmail.com)](mailto:simi.prambos@gmail.com)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=simiprambos&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=simiprambos&count_private=true&show_icons=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=simiprambos)](https://git.io/streak-stats)
 
