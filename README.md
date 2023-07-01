@@ -1,12 +1,41 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/simiprambos/simiprambos/main/wave.gif" width="30px">
+I'm a passionate self-taught full-stack developer who loves to learn something new every day.
 
-You can call me Simi (Prambos). I am a Fullstack Developer & Tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+## 🏗 Contribution
 
-[![Linkedin Badge](https://img.shields.io/badge/-simiprambos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-silmi-kaffah/)](https://www.linkedin.com/in/muhammad-silmi-kaffah/)
-[![Gmail Badge](https://img.shields.io/badge/-simi.prambos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:simi.prambos@gmail.com)](mailto:simi.prambos@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=simiprambos&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=simiprambos&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simiprambos&theme=react-dark&hide_border=true">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=simiprambos&count_private=true&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=simiprambos)](https://git.io/streak-stats)
+## 🧑🏻‍💻 Programming Languages
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=simiprambos.simiprambos)
+<a href="https://github.com/simiprambos">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simiprambos&count_private=true&layout=compact&hide=html,css&theme=tokyonight&langs_count=12&hide_border=true" />
+</a>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## 🤝 Keep In Touch
+
+<a href="https://www.linkedin.com/in/muhammad-silmi-kaffah">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br />
+<br />
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=simiprambos&theme=onedark)](https://github.com/simiprambos)
+
+<br />
+
+![Views](https://visitor-badge.laobi.icu/badge?page_id=simiprambos.simiprambos)
